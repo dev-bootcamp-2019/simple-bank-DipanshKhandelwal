@@ -1,5 +1,7 @@
 # Simple Bank Exercise
 
+[![Build Status](https://travis-ci.org/dev-bootcamp-2019/simple-bank-DipanshKhandelwal.svg?branch=master)](https://travis-ci.org/dev-bootcamp-2019/simple-bank-DipanshKhandelwal)
+
 The Simple Bank directory is a truffle project that contains the required contract, migration and test files. In this exercise you are going to implement the SimpleBank.sol contract.
 
 The contract contains the framework and comments to implement the contract. Follow the comments outlined in the SimpleBank.sol contract to implement the contract. We have written a set of tests to determine if you implement the contract correctly. 
